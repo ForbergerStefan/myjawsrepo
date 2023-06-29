@@ -1,0 +1,60 @@
+nastavenie mena a emailu do gitu
+git config --global user.name "meno"
+git config --global user.email email@email.com
+pre overenie je mozne pouzit git config user.mail /user.email
+
+praca s repoyitarom
+pwd - zobrazenie v repozitari
+
+git init spojenie gitu
+git status zobrazuje main branch
+git add <> prida do gitu ak sa da bodka tak prida vsetky subory
+git commit -m "" -> -m je massage pre niekoho aby vedel
+git clone <git repo>
+
+
+git branch zobrazi branchls -
+git switch "nazov" prepne na brench
+git status zobrazi status filov
+
+ak chcem mergovat musim ist do mastra
+git switch master
+nasledne mergnem branchu vedlajsiu pomocou
+git merge "meno"
+
+git cheat sheet
+
+
+Console sign-in URL
+https://358289473943.signin.aws.amazon.com/console
+User name
+iamuser
+Console password
+fZ3|n8S[
+Hide
+
+git token
+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
+
+aws login:
+358289473943
+iamuser
+QWEasd153.
+
+358289473943
+iamuser2
+IBMacademy1.
+
+358289473943
+iamuser3
+IBMacademy1.
+
+access key
+AKIAVG25XQGLVSQXPKOI
+secret access key
+e3QuZMyJQjlJ/5U7FlCx0xQIbP75u0Tk0mPiQ+Au
+
+jenkins
+111be563f58e4f99ac17461454264dd1
+
+
